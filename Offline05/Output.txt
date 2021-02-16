@@ -1,0 +1,14 @@
+19
+0 - 1
+3 - 4
+
+
+from 0 to 1,flow is10
+from 0 to 3,flow is9
+from 1 to 2,flow is4
+from 1 to 3,flow is0
+from 1 to 4,flow is6
+from 2 to 5,flow is9
+from 3 to 4,flow is9
+from 4 to 2,flow is5
+from 4 to 5,flow is10
